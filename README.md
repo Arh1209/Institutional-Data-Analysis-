@@ -1,4 +1,6 @@
 # Institution Data Science Project (VS Code)
+<img width="1803" height="813" alt="image" src="https://github.com/user-attachments/assets/e8c2877d-a37b-4b0b-ab39-60edd02c2349" />
+
 
 ## Dataset note
 The supplied `all_institutions.csv` contains institution-level records (72,703 rows and 17 columns in the supplied copy). It does **not** contain engineering cutoff percentile or merit number. Therefore, this project performs a classification task to predict `institutionCategory`, rather than cutoff regression.
